@@ -45,3 +45,6 @@ CMakeLists.txt
 sdkconfig.lolin_c3_mini
 /.idea/
 /esphome-igrill.code-workspace
+/.DS_Store
+/secrets.yaml
+/.esphome/
